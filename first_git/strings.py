@@ -4,3 +4,4 @@ def up(text):
 
 if __name__ == '__main__':
     print(up('hello'))
+    print(up('world'))
